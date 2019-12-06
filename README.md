@@ -1,2 +1,3 @@
-# hoy no es jueves! ni lunes!
+# hoy es viernes!
+
 hola...
