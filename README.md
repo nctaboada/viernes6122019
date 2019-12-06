@@ -1,2 +1,2 @@
-# viernes6122019
+# hoy no es jueves! ni lunes!
 hola...
